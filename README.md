@@ -47,7 +47,7 @@ Not a programmer. Just someone who refuses to stop until it works.
 | [**crossword-skill**](https://github.com/zorahm/crossword-skill) | spatial reasoning? Python does the heavy lifting, because asking an LLM to align a 2D grid burns your monthly usage limits in 5 minutes |
 | [**Archetype**](https://github.com/zorahm/Archetype) | Minecraft class system mod — Java, JSON datapack extensibility |
 | [**zzol.ru**](https://zzol.ru) | link and text shortener with Markdown support |
-| [*AgentChat*](https://github.com/zorahm/agentchat) | Desktop AI chat with an agentic loop. Tauri shell, Python backend, LiteLLM provider abstraction, agentskills.io with hot-reload |
+| [**AgentChat**](https://github.com/zorahm/agentchat) | Desktop AI chat with an agentic loop. Tauri shell, Python backend, LiteLLM provider abstraction, agentskills.io with hot-reload |
 
 ---
 
