@@ -11,8 +11,7 @@
 
 **student · someone who configures things until they work**
 
-[![](https://img.shields.io/badge/zorahm.ru-black?style=flat-square)](https://zorahm.ru)
-[![](https://img.shields.io/badge/zzol.ru-black?style=flat-square)](https://zzol.ru)
+[![](https://img.shields.io/badge/zorahm.com-black?style=flat-square)](https://zorahm.com)
 
 </div>
 
@@ -22,7 +21,7 @@
 
 Based in Moscow. Into web development and have been configuring servers since age 10 — starting with my dad, continuing out of habit.
 
-I write a Russian-language [**Telegram channel**](https://t.me/zorahmdev) about AI and infrastructure, systematically benchmark AI models, and spend the rest of my time building things that are either useful or interesting — ideally both.
+I systematically benchmark AI models, and spend the rest of my time building things that are either useful or interesting — ideally both.
 
 Strong opinions about: AI model evaluation, VPN protocols, why most "AI-generated code" bugs are actually prompt bugs.
 
@@ -44,9 +43,7 @@ Not a programmer. Just someone who refuses to stop until it works.
 
 | project | what it is |
 |---|---|
-| [**crossword-skill**](https://github.com/zorahm/crossword-skill) | spatial reasoning? Python does the heavy lifting, because asking an LLM to align a 2D grid burns your monthly usage limits in 5 minutes |
-| [**Archetype**](https://github.com/zorahm/Archetype) | Minecraft class system mod — Java, JSON datapack extensibility |
-| [**zzol.ru**](https://zzol.ru) | link and text shortener with Markdown support |
+| [**Yaca**](https://github.com/zorahm/yaca) | Desktop coding agent. You describe a task, it inspects the project, edits files and runs commands, asking for approval before every irreversible action. Tauri v2 + Rust, in beta |
 | [**AgentChat**](https://github.com/zorahm/agentchat) | Desktop AI chat with an agentic loop. Tauri shell, Python backend, LiteLLM provider abstraction, agentskills.io with hot-reload |
 
 ---
