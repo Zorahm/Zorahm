@@ -33,7 +33,11 @@ When I'm not coding, I'm probably comparing LLMs. When I'm comparing LLMs, I'm p
 
 **whatever the task needs** — and whatever else gets the job done.
 
-Favourite languages: `Python` `Markdown` `Java` `TS/JS`
+![Rust](https://img.shields.io/badge/Rust-black?style=flat-square&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-black?style=flat-square&logo=openjdk&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-black?style=flat-square&logo=gnubash&logoColor=white)
 
 Not a programmer. Just someone who refuses to stop until it works.
 
@@ -41,10 +45,14 @@ Not a programmer. Just someone who refuses to stop until it works.
 
 ## projects
 
-| project | what it is |
-|---|---|
-| [**Yaca**](https://github.com/zorahm/yaca) | Desktop coding agent. You describe a task, it inspects the project, edits files and runs commands, asking for approval before every irreversible action. Tauri v2 + Rust, in beta |
-| [**AgentChat**](https://github.com/zorahm/agentchat) | Desktop AI chat with an agentic loop. Tauri shell, Python backend, LiteLLM provider abstraction, agentskills.io with hot-reload |
+| project | lang | what it is |
+|---|---|---|
+| [**Yaca**](https://github.com/zorahm/yaca) | Rust | Desktop coding agent. You describe a task, it inspects the project, edits files and runs commands, asking for approval before every irreversible action. Tauri v2, in beta |
+| [**AgentChat**](https://github.com/zorahm/agentchat) | Python | Desktop AI chat with an agentic loop. Tauri shell, Python backend, LiteLLM provider abstraction, agentskills.io with hot-reload |
+| [**vps-agent**](https://github.com/zorahm/vps-agent) | Rust | MCP server that gives coding agents rootless, policy-checked access to a VPS |
+| [**zorahm.com**](https://github.com/zorahm/zorahm.com) | TypeScript | Personal site: eight scroll-driven frames rendered as a WebGL halftone field. EN + RU, static Next.js |
+| [**zowork**](https://github.com/zorahm/zowork) | JavaScript | Personal Claude Code plugin: skills, hooks and automations |
+| [**prompting-docs**](https://github.com/zorahm/prompting-docs) | Shell | Claude Code plugin that keeps Anthropic's per-model prompting guides cached locally and reads the right one on demand |
 
 ---
 
@@ -56,19 +64,6 @@ Not a programmer. Just someone who refuses to stop until it works.
 - Practice first, theory later
 
 I test AI models systematically — benchmarks, trick questions, edge cases. Curious which model I actually use? Check the contributors on any active repo.
-
----
-
-## github stats
-
-<div align="center">
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zorahm&theme=github_dark)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zorahm&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zorahm&theme=github_dark)
-
-</div>
 
 ---
 
